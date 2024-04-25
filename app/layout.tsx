@@ -60,7 +60,7 @@ export default function RootLayout({
 								title="Hygraph homepage"
 							>
 								<span className="text-default-600">Brought to you by</span>
-								<p className="text-primary">Hygraph</p>
+								<p className="text-primary">Movieplex South AFrica</p>
 							</Link>
 						</footer>
 					</div>
