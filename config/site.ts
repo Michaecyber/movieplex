@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-	name: "Mvieplex",
+	name: "Movieplex",
 	description: "A movie streaming platform",
 	navItems: [
 		{
