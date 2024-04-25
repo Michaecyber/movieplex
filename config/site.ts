@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-	name: "Hygraphlix",
+	name: "Mvieplex",
 	description: "A movie streaming platform",
 	navItems: [
 		{
@@ -48,8 +48,8 @@ export const siteConfig = {
 		},
 	],
 	links: {
-		github: "https://github.com/lowisren/hygraph-movie-starter/",
-		twitter: "https://twitter.com/hygraph",
-		docs: "https://hygraph.com/docs",
+		github: "https://github.com/Michaecyber/movieplex",
+		twitter: "https://twitter.com/",
+		docs: "https://662aa5df1095912b3ee85e57--strong-narwhal-9f5212.netlify.app/",
 	},
 };
