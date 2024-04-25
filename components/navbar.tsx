@@ -55,7 +55,7 @@ export const Navbar = () => {
 				<NavbarBrand as="li" className="gap-3 max-w-fit">
 					<NextLink className="flex items-center justify-start gap-1" href="/">
 						<Logo />
-						<p className="text-2xl font-bold">Movieplex</p>
+						<p className="text-2xl font-bold">MOVIEPLEX</p>
 					</NextLink>
 				</NavbarBrand>
 				<ul className="justify-start hidden gap-4 ml-2 lg:flex">
