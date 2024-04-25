@@ -54,7 +54,7 @@ export default async function Home() {
       <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
         <div className="justify-center inline-block max-w-lg text-center">
           <h1 className={title({ color: "violet", size: "jumbo" })}>
-            Movieplex&nbsp;
+            1AFRICARADIOTV&nbsp;
           </h1>
           <br />
           <h2 className={title({ size: "sm" })}>The cinematic wonderland</h2>
